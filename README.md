@@ -1,1 +1,1 @@
-# Regis Demo
+# AVERtek Regis Demo
