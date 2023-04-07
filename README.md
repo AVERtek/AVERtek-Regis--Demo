@@ -1,1 +1,1 @@
-# AVERtek-Regis--Demo
+# Regis Final v1 Landing Page
